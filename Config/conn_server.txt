@@ -1,0 +1,16 @@
+64.227.14.212
+3306
+sntss_hoteles
+hoteles
+SindicatoHotel20@
+
+
+
+178.128.227.27
+64.227.14.212
+Sindicato
+201.103.49.193
+8000
+sntss_hoteles
+hoteles
+SindicatoHotel20@

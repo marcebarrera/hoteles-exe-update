@@ -1,8 +1,8 @@
-64.227.14.212
+178.128.227.27
 3306
 sntss_hoteles
 hoteles
-SindicatoHotel20@
+Javis1234
 
 
 
